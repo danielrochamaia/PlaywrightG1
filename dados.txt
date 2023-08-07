@@ -1,0 +1,154 @@
+[PÁGINA 1]
+
+PORTAL: G1
+DATA: há 3 horas
+TÍTULO: Lula sanciona lei que autoriza ozonioterapia, alvo de polêmica durante a pandemia
+LINK: //g1.globo.com/busca/click?q=Lula&p=1&r=1691402994917&u=https%3A%2F%2Fg1.globo.com%2Fpolitica%2Fnoticia%2F2023%2F08%2F07%2Flula-sanciona-lei-que-autoriza-ozonioterapia-alvo-de-polemica-durante-a-pandemia.ghtml&syn=False&key=83303014d8bef5b080cfb187e81c28cb
+
+PORTAL: JAM 1ª edição
+DATA: há 1 dia
+TÍTULO: Presidente Lula visita Parintins
+LINK: //g1.globo.com/busca/click?q=Lula&p=2&r=1691402994920&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11841806%2F&syn=False&key=0b19a696c4b5b4d67c7c814abc89ccb8
+
+PORTAL: G1
+DATA: há 15 horas
+TÍTULO: Alckmin diz que não teve 'nenhuma conversa' com Lula sobre deixar ministério: 'Cargo é do presidente'
+LINK: //g1.globo.com/busca/click?q=Lula&p=3&r=1691402994922&u=https%3A%2F%2Fg1.globo.com%2Fpolitica%2Fnoticia%2F2023%2F08%2F06%2Falckmin-diz-que-nao-teve-nenhuma-conversa-com-lula-sobre-deixar-ministerio-cargo-e-do-presidente.ghtml&syn=False&key=6bbeb382baf3e3754c83804ff787c949
+
+PORTAL: JAM 2ª edição
+DATA: há 2 dias
+TÍTULO: Presidente Lula visita Parintins
+LINK: //g1.globo.com/busca/click?q=Lula&p=4&r=1691402994924&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11840098%2F&syn=False&key=5b489291c43b1a47ae9ae30bcbaca9b4
+
+PORTAL: G1
+DATA: há 8 horas
+TÍTULO: Zelensky diz que Lula repete falas de Putin: 'Para ser honesto, pensei que ele tinha uma compreensão maior do mundo'
+LINK: //g1.globo.com/busca/click?q=Lula&p=5&r=1691402994926&u=https%3A%2F%2Fg1.globo.com%2Fmundo%2Fnoticia%2F2023%2F08%2F06%2Fzelensky-diz-que-lula-repete-falas-de-putin-para-ser-honesto-pensei-que-ele-tinha-uma-compreensao-maior-do-mundo.ghtml&syn=False&key=7f34206b73d82dca773e8ade8387b055
+
+PORTAL: Jornal Liberal 2ª Edição
+DATA: há 1 dia
+TÍTULO: Fazendeiro que ameaçou atirar em Lula é solto pela Justiça
+LINK: //g1.globo.com/busca/click?q=Lula&p=6&r=1691402994929&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11842213%2F&syn=False&key=73255414d76949d1f6e6a7a560f6bd15
+
+PORTAL: Jornal Tapajós 2ª Edição
+DATA: há 1 dia
+TÍTULO: Presidente Lula conhece a região antes de iniciar agenda em Santarém
+LINK: //g1.globo.com/busca/click?q=Lula&p=7&r=1691402994932&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11842260%2F&syn=False&key=3a7b265d7fe0e1621a63d04468c3175c
+
+PORTAL: Jornal Liberal 1ª Edição
+DATA: há 1 dia
+TÍTULO: Homem que ameaçou presidente Lula está em liberdade provisória
+LINK: //g1.globo.com/busca/click?q=Lula&p=8&r=1691402994933&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11841267%2F&syn=False&key=534cd9a46cbb818b2e77f11870437a2e
+
+PORTAL: JAM 2ª edição
+DATA: há 2 dias
+TÍTULO: Bastidores da visita do presidente Lula a Parintins
+LINK: //g1.globo.com/busca/click?q=Lula&p=9&r=1691402994935&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11840084%2F&syn=False&key=0db4113f5b147c4528cb6a6e2f0393fb
+
+PORTAL: Conexão Globonews
+DATA: há 2 dias
+TÍTULO: Lula autoriza compra de energia da Venezuela
+LINK: //g1.globo.com/busca/click?q=Lula&p=10&r=1691402994937&u=https%3A%2F%2Fg1.globo.com%2Fglobonews%2Fconexao-globonews%2Fvideo%2Flula-autoriza-compra-de-energia-da-venezuela-11838270.ghtml&syn=False&key=a3876fcd42110955375bc16b400e220a
+
+PORTAL: G1 TV Tapajós
+DATA: há 2 dias
+TÍTULO: Confira o desembarque do presidente Lula em Santarém
+LINK: //g1.globo.com/busca/click?q=Lula&p=11&r=1691402994938&u=https%3A%2F%2Fg1.globo.com%2Fpa%2Fsantarem-regiao%2Fvideo%2Fconfira-o-desembarque-do-presidente-lula-em-santarem-11839552.ghtml&syn=False&key=6d7fe6d60e8fe438f803fbf0cddc256c
+
+PORTAL: JAM 1ª edição
+DATA: há 2 dias
+TÍTULO: Presidente Lula visita Parintins nesta sexta-feira
+LINK: //g1.globo.com/busca/click?q=Lula&p=12&r=1691402994990&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11839535%2F&syn=False&key=f1e05da4da37eb05f49634ed32398a7b
+
+PORTAL: G1
+DATA: há 1 dia
+TÍTULO: 'Companheira de partido', deputada Maria do Carmo fala sobre visita de Lula a Santarém
+LINK: //g1.globo.com/busca/click?q=Lula&p=13&r=1691402994992&u=https%3A%2F%2Fg1.globo.com%2Fpa%2Fsantarem-regiao%2Fnoticia%2F2023%2F08%2F05%2Fcompanheira-de-partido-deputada-maria-do-carmo-fala-sobre-visita-de-lula-a-santarem.ghtml&syn=False&key=ba870c333841ca70e669ae7c8db2d665
+
+PORTAL: Bom dia Tapajós
+DATA: há 2 dias
+TÍTULO: Polícia prende suspeitos de propagar ameaças ao presidente Lula
+LINK: //g1.globo.com/busca/click?q=Lula&p=14&r=1691402994994&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11837981%2F&syn=False&key=414cd171b7d358b70fc86a453fbf573d
+
+PORTAL: Bom Dia Pará
+DATA: há 2 dias
+TÍTULO: Lula dá posse a Celso Sabino como ministro do Turismo
+LINK: //g1.globo.com/busca/click?q=Lula&p=15&r=1691402994995&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11837564%2F&syn=False&key=16e1d3bfe10079bab4014f4ae31820dc
+
+[PÁGINA 2]
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: Presidente Lula chega a Santarém para inauguração da Infovia 01
+LINK: //g1.globo.com/busca/click?q=Lula&p=16&r=1691403022133&u=https%3A%2F%2Fg1.globo.com%2Fpa%2Fsantarem-regiao%2Fnoticia%2F2023%2F08%2F04%2Fpresidente-lula-chega-a-santarem-para-inauguracao-da-infovia-01.ghtml&syn=False&key=b1700a26fa49bb0a3e3edd6bb3d4daf2
+
+PORTAL: JAM 2ª edição
+DATA: há 3 dias
+TÍTULO: Presidente Lula vai a Parintins, no AM
+LINK: //g1.globo.com/busca/click?q=Lula&p=17&r=1691403022137&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11836838%2F&syn=False&key=cbeb70b869eea0690511a3f20755ba52
+
+PORTAL: Bom Dia Brasil
+DATA: há 2 dias
+TÍTULO: Posse do ministro do Turismo amplia Centrão no governo Lula
+LINK: //g1.globo.com/busca/click?q=Lula&p=18&r=1691403022141&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11837612%2F&syn=False&key=953fbcd18e7bba19e0ba4f9465e81a2c
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: O que são os fundos dos 'super ricos' que governo Lula quer taxar
+LINK: //g1.globo.com/busca/click?q=Lula&p=19&r=1691403022145&u=https%3A%2F%2Fg1.globo.com%2Fmundo%2Fnoticia%2F2023%2F08%2F04%2Fo-que-sao-os-fundos-dos-super-ricos-que-governo-lula-quer-taxar.ghtml&syn=False&key=e176c5dbc0cc07ad1126428627139295
+
+PORTAL: JAM 1ª edição
+DATA: há 3 dias
+TÍTULO: Lula concede entrevista e fala sobre a Amazônia
+LINK: //g1.globo.com/busca/click?q=Lula&p=20&r=1691403022149&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11836266%2F&syn=False&key=b179e833b39d73e55fe1801ad6c1be31
+
+PORTAL: G1
+DATA: há 1 dia
+TÍTULO: Justiça manda soltar fazendeiro que ameaçou dar tiro em Lula em Santarém, no PA
+LINK: //g1.globo.com/busca/click?q=Lula&p=21&r=1691403022153&u=https%3A%2F%2Fg1.globo.com%2Fpa%2Fsantarem-regiao%2Fnoticia%2F2023%2F08%2F04%2Fjustica-solta-fazendeiro-que-ameacou-dar-tiro-no-presidente-lula-em-santarem-no-pa.ghtml&syn=False&key=a5c56f259d7958cf536cc7126b16ff23
+
+PORTAL: JAM 1ª edição
+DATA: há 3 dias
+TÍTULO: Lula cumpre agenda em Parintins, no AM
+LINK: //g1.globo.com/busca/click?q=Lula&p=22&r=1691403022156&u=https%3A%2F%2Fgloboplay.globo.com%2Fv%2F11836068%2F&syn=False&key=21767eff6b600b09f62d299701999be5
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: Lula assina decreto que autoriza o Brasil a comprar energia elétrica da Venezuela
+LINK: //g1.globo.com/busca/click?q=Lula&p=23&r=1691403022160&u=https%3A%2F%2Fg1.globo.com%2Feconomia%2Fnoticia%2F2023%2F08%2F04%2Flula-assina-decreto-que-autoriza-o-brasil-a-comprar-energia-eletrica-da-venezuela.ghtml&syn=False&key=c2b163ac5fc637d9ae85cfb39a00e299
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: Lula e Alckmin se encontram após especulações de que o vice seria substituído em ministério
+LINK: //g1.globo.com/busca/click?q=Lula&p=24&r=1691403022162&u=https%3A%2F%2Fg1.globo.com%2Fpolitica%2Fblog%2Fgerson-camarotti%2Fpost%2F2023%2F08%2F04%2Flula-e-alckmin-se-encontram-apos-especulacoes-de-que-o-vice-seria-substituido-em-ministerio.ghtml&syn=False&key=85c5251133b44ec5af47df12cc26c6f4
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: Lula quer formar bancada no STF e costura acordo para PGR
+LINK: //g1.globo.com/busca/click?q=Lula&p=25&r=1691403022164&u=https%3A%2F%2Fg1.globo.com%2Fpolitica%2Fblog%2Fandreia-sadi%2Fpost%2F2023%2F08%2F04%2Flula-quer-formar-bancada-no-stf-e-costura-acordo-para-pgr.ghtml&syn=False&key=b75b6b32f9dbdaf9349103587b597876
+
+PORTAL: G1
+DATA: há 1 dia
+TÍTULO: Vendaval em Autazes, grávida assassinada por amante e Lula no AM; veja o resumo da semana no g1 AM
+LINK: //g1.globo.com/busca/click?q=Lula&p=26&r=1691403022167&u=https%3A%2F%2Fg1.globo.com%2Fam%2Famazonas%2Fnoticia%2F2023%2F08%2F05%2Fvendaval-em-autazes-gravida-assassinada-por-amante-e-lula-no-am-veja-o-resumo-da-semana-no-g1-am.ghtml&syn=False&key=59e32215a2dad60c5e7427032f40a307
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: Polícias Federal e do Pará fazem força-tarefa por segurança de evento com Lula
+LINK: //g1.globo.com/busca/click?q=Lula&p=27&r=1691403022170&u=https%3A%2F%2Fg1.globo.com%2Fpolitica%2Fblog%2Fdaniela-lima%2Fpost%2F2023%2F08%2F04%2Fpolicias-federal-e-do-para-fazem-forca-tarefa-por-seguranca-de-evento-com-lula.ghtml&syn=False&key=360630d79cdccb288762b27039c28753
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: Em Parintins, Lula comenta ameaças contra ele e diz não ter 'medo de cara feia'
+LINK: //g1.globo.com/busca/click?q=Lula&p=28&r=1691403022174&u=https%3A%2F%2Fg1.globo.com%2Fpolitica%2Fnoticia%2F2023%2F08%2F04%2Fem-parintins-lula-se-queixa-de-ter-que-andar-de-carro-blindado-como-se-estivesse-em-um-presidio.ghtml&syn=False&key=bbe90923cb03a5cf3aac0f0baca55562
+
+PORTAL: G1 Política
+DATA: há 3 dias
+TÍTULO: 'Eu não estou com pressa', diz Lula sobre reforma ministerial
+LINK: //g1.globo.com/busca/click?q=Lula&p=29&r=1691403022178&u=https%3A%2F%2Fg1.globo.com%2Fpolitica%2Fvideo%2Feu-nao-estou-com-pressa-diz-lula-sobre-reforma-ministerial-11834702.ghtml&syn=False&key=9b81eff909499527b55a43c680f335c9
+
+PORTAL: G1
+DATA: há 2 dias
+TÍTULO: Vigilante suspeito de espalhar ameaças contra Lula é liberado após depoimento à PF, em Belém
+LINK: //g1.globo.com/busca/click?q=Lula&p=30&r=1691403022182&u=https%3A%2F%2Fg1.globo.com%2Fpa%2Fpara%2Fnoticia%2F2023%2F08%2F04%2Fvigilante-suspeito-de-espalhar-ameacas-contra-lula-e-liberado-apos-depoimento-a-pf-no-pa.ghtml&syn=False&key=3ed9830e42f7b41ebd796f207fe49193
+
