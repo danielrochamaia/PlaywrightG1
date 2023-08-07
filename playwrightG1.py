@@ -4,11 +4,10 @@ subject = "Lula"
 pageNumber = 1
 maximumPages = 2
 
-def getPortalAndTime(text):
-        text = element.query_selector('.widget--info__meta--card').text_content().replace("\n", "").strip()
-        data = text.replace("    ","").split("•")
-        portal = data[0]
-        time = data[1]
+def getPortalAndTime(info):
+        info = info.replace("\n", "").strip().replace("    ","").split("•")
+        portal = info[0]
+        time = info[1]
         return portal, time
 
 def getContent(className):
@@ -29,7 +28,7 @@ with open('dados.txt', 'w') as file:
 
             if elements:
                 for element in elements:
-                    info = getContent("widget--info__meta")
+                    info = getContent("widget--info__meta--card")
                     title = getContent("widget--info__title")
 
                     if(info != None):
